@@ -13,7 +13,7 @@ using vll = vector<ll>;
 #define rall(v) v.rbegin(), v.rend()
 
 void solve() {
-    cout>> "Hello! World."<< endl;
+    cout<< "Hello! World."<< endl;
 }
 
 int main() {
